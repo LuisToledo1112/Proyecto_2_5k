@@ -1,0 +1,218 @@
+*{
+    margin: 10;
+    padding: 5;
+    box-sizing: border-box;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: cursive;
+    font-size: small;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    
+}
+.formato h3{
+    margin-left: 55%;
+}
+.formato p{
+    font-size: 30px;
+    margin-left: 34%;
+    justify-content: center;
+    position: absolute;
+    font-size: 25px;
+    margin-right: 50px;
+    line-height: 40px;
+}
+.formato img{
+    border-radius: 15px;
+    background-position: auto;
+    margin-left: 10px;
+    transform: translate(50px);
+    overflow: hidden;
+    width: 400px;
+}
+.container{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 5px 8px 12px black;
+}
+.container img{
+    width: 100%;
+    height: 100%;
+}
+.container h1{
+  
+    color:whitesmoke;
+    position:absolute;
+    font-size: 50px;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 0 0 8px black;
+    
+}
+body{
+    background-color: rgb(10, 10, 69);
+    border-radius: 15px;
+    margin-top: 100% auto;
+    margin-right: 15px;
+    
+}
+div{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 5px 8px 12px black;
+    bottom: 10px;
+}
+
+div ul{
+    display: inline;
+}
+div li{
+    display: inline;
+    margin: 15px;
+}
+div li a{
+    display: inline;
+    color: blue;
+    text-decoration: none;
+    text-align: right;
+
+    font-size: 23px;
+   
+}
+a:hover{
+   background-color: aqua;
+   border-radius: 15px;
+   border-bottom: 10px;
+}
+p{
+    color:black;
+    text-align: justify;
+    margin-left: 10px;
+    font-size: 25px;
+    margin-right: 10px;
+    
+
+}
+h3{
+    color:darkblue;
+    margin-left: 10px;
+    font-size: 28px;
+}
+
+ol{
+    display:inline;
+    margin-left: 30%;
+    margin-top: 100% auto;
+}
+ul img{
+    margin-left: 200px;
+    border-radius: 15px;
+}
+li img{
+    margin-left: 100px;
+    border-radius: 15px;
+}
+
+li{
+    margin-top: 2%;
+    font-size: 25px;
+    margin-left: 27%;
+}
+
+h3 a{
+    font-size: 23px;
+}
+.soft img{
+    margin-left: 60%;
+    position: absolute;
+    width: 500px;
+    height: 250px;
+    border-radius: 15px;
+    top:600px
+    
+    
+}
+.soft p{
+    text-align: justify;
+    width: 850px;
+    line-height: 40px;
+    margin-right: 100px;
+    
+}
+.soft h3{
+    margin-left: 300px;
+}
+
+.Inicio{
+    text-align: justify;
+    width: 600px;
+    line-height: 40px;
+    margin-left: 28%;
+}
+.Inicio img{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 240px;
+    margin-left: -350px;
+    
+}
+.image{
+    position: absolute;
+    top: 240px;
+    margin-left: 70%;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    
+}
+.piePag h3{
+    color: black;
+    display: inline;
+    line-height: 40px;
+}
+.piePag{
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.imgPag2 img{
+    margin: 300px;
+    position: absolute;
+}
+.imgPag2_2{
+    margin-left: 500px;
+    position: absolute;
+}
+.imgPag2_3{
+    margin-left: 950px;
+    position: absolute;
+}
+.biblio{
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+.link{
+    background-color: aliceblue;
+    border-radius: 15px;
+    
+
+}
+.link h3 a{
+    position: relative;
+    margin-left: 10px;
+    font-size: 22px;
+    background-color: aliceblue;
+    border-radius: 15px;
+
+}
